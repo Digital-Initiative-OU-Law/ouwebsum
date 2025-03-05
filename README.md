@@ -1,4 +1,4 @@
-## OU Websum Chrome Extension
+## OU Web Summarizer Chrome Extension
 
 A Chrome extension that summarizes web pages using OpenAI's API, designed specifically for the University of Oklahoma community.
 
